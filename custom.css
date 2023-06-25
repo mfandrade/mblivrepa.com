@@ -1,0 +1,55 @@
+main {
+	height: 80%;
+}
+
+
+#social a {
+	position: relative;
+	top: 0;
+	transition: top ease 0.25s;
+}
+#social a:hover {
+	  top: -20px;
+}
+
+#planos article {
+	margin-top: 40px;
+	padding: 40px;
+}
+
+#planos h4 {
+	text-transform: uppercase;
+}
+
+#bora, #bora h4, #bora p, #bora small {
+	background-color: /*#960200;*/ #420C14;
+	color: white;
+}
+#tamojunto, #tamojunto h4, #tamojunto p, #tamojunto small {
+	background-color: /*#CE6C47;*/ #732C2C;
+	color: white;
+}
+#paidegua, #paidegua h4, #paidegua p, #paidegua small {
+	background-color: /*#FFD046;*/ #ABA361;
+	color: white;
+}
+
+#iniciativas article {
+	margin: 0;
+	padding: 40px;
+}
+
+#academiambl {
+	background-color: rgb(3, 3, 3);
+}
+#clubembl {
+	background-color: rgb(17, 37, 67);
+}
+#revistavalete {
+	background-color: rgb(245, 243, 236)
+}
+
+select {
+	border: 0;
+}
+
