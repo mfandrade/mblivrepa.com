@@ -20,17 +20,18 @@ main {
 
 #planos h4 {
 	text-transform: uppercase;
+	margin-top: 10px;
 }
 
-#bora, #bora h4, #bora p, #bora small {
+#bora, #bora h4, #bora p, #bora li {
 	background-color: /*#960200;*/ #420C14;
 	color: white;
 }
-#tamojunto, #tamojunto h4, #tamojunto p, #tamojunto small {
+#tamojunto, #tamojunto h4, #tamojunto p, #tamojunto li {
 	background-color: /*#CE6C47;*/ #732C2C;
 	color: white;
 }
-#paidegua, #paidegua h4, #paidegua p, #paidegua small {
+#paidegua, #paidegua h4, #paidegua p, #paidegua li {
 	background-color: /*#FFD046;*/ #ABA361;
 	color: white;
 }
