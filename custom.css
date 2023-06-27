@@ -7,7 +7,7 @@ main {
 	position: relative;
 	top: 0;
 	transition: top ease 0.25s;
-	margin: 0 30px;
+	margin: 20px 30px;
 }
 #social a:hover {
 	  top: -20px;
