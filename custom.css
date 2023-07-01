@@ -14,7 +14,7 @@ main {
 	transition: top ease 0.25s;
 }
 #social a:hover {
-	  top: -20px;
+	  top: -15px;
 }
 
 #planos article {
