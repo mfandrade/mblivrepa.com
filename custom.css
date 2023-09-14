@@ -2,6 +2,16 @@ main {
 	height: 80%;
 }
 
+h1 {
+    font-size: 240%;
+}
+
+#cta {
+    border: 1px solid green;
+    background-color: #1BD741;
+    font-weight: bold;
+}
+
 #social .grid {
 	width: 65%;
 	margin: auto;
