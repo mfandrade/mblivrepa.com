@@ -7,9 +7,17 @@ h1 {
 }
 
 #cta {
-    border: 1px solid green;
+    border: 2px outset lightgreen;
+    border-radius: 10px;
     background-color: #1BD741;
     font-weight: bold;
+    cursor: pointer;
+}
+
+#cta:active {
+    position: relative;
+    border: 2px inset lightgreen;
+    top: 2px;
 }
 
 #social .grid {
@@ -25,6 +33,9 @@ h1 {
 }
 #social a:hover {
 	  top: -15px;
+}
+#social img {
+    margin-bottom: 15px;
 }
 
 #planos article {
